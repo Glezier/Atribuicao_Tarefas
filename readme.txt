@@ -22,7 +22,9 @@ obs: O passo 2 e 3 ficam alternando até que a designação ocorra perfeitamente
 Para as matrizes de 3000 adiante não conseguimos realizar o teste, não sei ao certo o motivo, mas imagino que
 seja devido ao enorme número de processamentos considerando que o algoritmo húngaro possui tempo de execução O(n^3).
 
-O códifo possui alguns debugs comentados em formato de saída de dados (printf). Optamos por deixa-los, para melhor 
+O código possui alguns debugs comentados em formato de saída de dados (printf). Optamos por deixa-los, para melhor 
 monitoramento se necessário. 
 
-
+Glezier Montalvane de Farias Ferreira
+Jõao Vitor dos Santos Conceição
+Willy Kauã Diniz Teixeira
